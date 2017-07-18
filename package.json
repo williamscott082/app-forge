@@ -1,0 +1,26 @@
+{
+  "name": "app-forge",
+  "version": "1.0.0",
+  "description": "A solution for mocking up applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamscott082/app-forge.git"
+  },
+  "keywords": [
+    "mock",
+    "mock-up",
+    "wireframing"
+  ],
+  "author": "Will Scott",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/williamscott082/app-forge/issues"
+  },
+  "homepage": "https://github.com/williamscott082/app-forge#readme",
+  "engine": "node >= 6.11.x",
+  "private": true
+}
